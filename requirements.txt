@@ -1,0 +1,6 @@
+beautifulsoup4
+python-dateutil
+dateparser
+sqlitedict
+aiogram
+httpx
